@@ -1,0 +1,3 @@
+com\vilka\security\core\constants\JwtProperties.class
+com\vilka\security\core\converter\JwtAuthConverter.class
+com\vilka\security\core\constants\JwtClaims.class
