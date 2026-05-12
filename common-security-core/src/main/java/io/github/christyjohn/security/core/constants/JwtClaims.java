@@ -1,4 +1,4 @@
-package com.vilka.security.core.constants;
+package io.github.christyjohn.security.core.constants;
 
 public class JwtClaims {
     public static final String ROLES = "roles";

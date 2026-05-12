@@ -1,2 +1,2 @@
-com\vilka\security\starter\config\JwtDecoderConfig.class
-com\vilka\security\starter\config\SecurityAutoConfiguration.class
+io\github\christyjohn\security\starter\config\JwtDecoderConfig.class
+io\github\christyjohn\security\starter\config\SecurityAutoConfiguration.class

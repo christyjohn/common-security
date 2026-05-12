@@ -1,4 +1,4 @@
-package com.vilka.security.core.converter;
+package io.github.christyjohn.security.core.converter;
 
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.security.authentication.AbstractAuthenticationToken;

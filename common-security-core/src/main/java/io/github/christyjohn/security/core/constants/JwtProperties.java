@@ -1,4 +1,4 @@
-package com.vilka.security.core.constants;
+package io.github.christyjohn.security.core.constants;
 
 import lombok.Getter;
 import lombok.Setter;

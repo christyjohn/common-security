@@ -1,6 +1,6 @@
-package com.vilka.security.starter.config;
+package io.github.christyjohn.security.starter.config;
 
-import com.vilka.security.core.constants.JwtProperties;
+import io.github.christyjohn.security.core.constants.JwtProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.oauth2.jwt.JwtDecoder;

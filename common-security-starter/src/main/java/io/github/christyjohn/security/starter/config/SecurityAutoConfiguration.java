@@ -1,7 +1,7 @@
-package com.vilka.security.starter.config;
+package io.github.christyjohn.security.starter.config;
 
-import com.vilka.security.core.constants.JwtProperties;
-import com.vilka.security.core.converter.JwtAuthConverter;
+import io.github.christyjohn.security.core.constants.JwtProperties;
+import io.github.christyjohn.security.core.converter.JwtAuthConverter;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;

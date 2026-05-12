@@ -8,10 +8,40 @@
 		<relativePath/> <!-- IMPORTANT -->
 	</parent>
 
-	<groupId>com.vilka.security</groupId>
+	<groupId>io.github.christyjohn</groupId>
 	<artifactId>common-security-parent</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>pom</packaging>
+
+	<name>common-security-parent</name>
+	<description>Reusable JWT security starter for spring based microservices</description>
+	<url>https://github.com/christyjohn/common-security</url>
+
+	<licenses>
+		<license>
+			<name>MIT License</name>
+			<url>https://opensource.org/licenses/MIT</url>
+		</license>
+	</licenses>
+
+	<developers>
+		<developer>
+			<id>christyjohn</id>
+			<name>Christy John</name>
+		</developer>
+	</developers>
+
+	<scm>
+		<connection>
+			scm:git:git://github.com/christyjohn/common-security.git
+		</connection>
+		<developerConnection>
+			scm:git:ssh://github.com/christyjohn/common-security.git
+		</developerConnection>
+		<url>
+			https://github.com/christyjohn/common-security
+		</url>
+	</scm>
 
 	<modules>
 		<module>common-security-core</module>
@@ -21,5 +51,24 @@
 	<properties>
 		<java.version>21</java.version>
 	</properties>
+
+	<build>
+		<plugins>
+
+			<plugin>
+				<groupId>org.sonatype.central</groupId>
+				<artifactId>central-publishing-maven-plugin</artifactId>
+				<version>0.10.0</version>
+
+				<extensions>true</extensions>
+
+				<configuration>
+					<publishingServerId>central</publishingServerId>
+					<autoPublish>true</autoPublish>
+				</configuration>
+			</plugin>
+
+		</plugins>
+	</build>
 
 </project>
