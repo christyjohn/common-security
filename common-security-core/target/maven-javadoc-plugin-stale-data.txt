@@ -1,0 +1,71 @@
+@options
+@packages
+-classpath
+'C:/Users/Admin/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/3.3.5/spring-boot-autoconfigure-3.3.5.jar;C:/Users/Admin/.m2/repository/org/springframework/boot/spring-boot/3.3.5/spring-boot-3.3.5.jar;C:/Users/Admin/.m2/repository/org/springframework/security/spring-security-core/6.3.4/spring-security-core-6.3.4.jar;C:/Users/Admin/.m2/repository/org/springframework/security/spring-security-crypto/6.3.4/spring-security-crypto-6.3.4.jar;C:/Users/Admin/.m2/repository/org/springframework/spring-aop/6.1.14/spring-aop-6.1.14.jar;C:/Users/Admin/.m2/repository/org/springframework/spring-beans/6.1.14/spring-beans-6.1.14.jar;C:/Users/Admin/.m2/repository/org/springframework/spring-context/6.1.14/spring-context-6.1.14.jar;C:/Users/Admin/.m2/repository/org/springframework/spring-core/6.1.14/spring-core-6.1.14.jar;C:/Users/Admin/.m2/repository/org/springframework/spring-jcl/6.1.14/spring-jcl-6.1.14.jar;C:/Users/Admin/.m2/repository/org/springframework/spring-expression/6.1.14/spring-expression-6.1.14.jar;C:/Users/Admin/.m2/repository/io/micrometer/micrometer-observation/1.13.6/micrometer-observation-1.13.6.jar;C:/Users/Admin/.m2/repository/io/micrometer/micrometer-commons/1.13.6/micrometer-commons-1.13.6.jar;C:/Users/Admin/.m2/repository/org/springframework/security/spring-security-oauth2-jose/6.3.4/spring-security-oauth2-jose-6.3.4.jar;C:/Users/Admin/.m2/repository/org/springframework/security/spring-security-oauth2-core/6.3.4/spring-security-oauth2-core-6.3.4.jar;C:/Users/Admin/.m2/repository/org/springframework/spring-web/6.1.14/spring-web-6.1.14.jar;C:/Users/Admin/.m2/repository/com/nimbusds/nimbus-jose-jwt/9.37.3/nimbus-jose-jwt-9.37.3.jar;C:/Users/Admin/.m2/repository/com/github/stephenc/jcip/jcip-annotations/1.0-1/jcip-annotations-1.0-1.jar;C:/Users/Admin/.m2/repository/org/springframework/security/spring-security-oauth2-resource-server/6.3.4/spring-security-oauth2-resource-server-6.3.4.jar;C:/Users/Admin/.m2/repository/org/springframework/security/spring-security-web/6.3.4/spring-security-web-6.3.4.jar;C:/Users/Admin/.m2/repository/org/projectlombok/lombok/1.18.34/lombok-1.18.34.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+21
+-sourcepath
+'C:/christy/workspace/MyProjects/common-security/common-security-core/src/main/java;C:/christy/workspace/MyProjects/common-security/common-security-core/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/christy/workspace/MyProjects/common-security/common-security-core/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'common-security-core 1.1.0 API'
+-use
+-version
+-windowtitle
+'common-security-core 1.1.0 API'
+io.github.christyjohn.security.core.constants
+io.github.christyjohn.security.core.converter
+C:\Users\Admin\.m2\repository\org\springframework\boot\spring-boot-autoconfigure\3.3.5\spring-boot-autoconfigure-3.3.5.jar = 1778663482933
+C:\Users\Admin\.m2\repository\org\springframework\boot\spring-boot\3.3.5\spring-boot-3.3.5.jar = 1778663484109
+C:\Users\Admin\.m2\repository\org\springframework\security\spring-security-core\6.3.4\spring-security-core-6.3.4.jar = 1778663481303
+C:\Users\Admin\.m2\repository\org\springframework\security\spring-security-crypto\6.3.4\spring-security-crypto-6.3.4.jar = 1778663481896
+C:\Users\Admin\.m2\repository\org\springframework\spring-aop\6.1.14\spring-aop-6.1.14.jar = 1778663480043
+C:\Users\Admin\.m2\repository\org\springframework\spring-beans\6.1.14\spring-beans-6.1.14.jar = 1778663478793
+C:\Users\Admin\.m2\repository\org\springframework\spring-context\6.1.14\spring-context-6.1.14.jar = 1778663479615
+C:\Users\Admin\.m2\repository\org\springframework\spring-core\6.1.14\spring-core-6.1.14.jar = 1778663479499
+C:\Users\Admin\.m2\repository\org\springframework\spring-jcl\6.1.14\spring-jcl-6.1.14.jar = 1778663483296
+C:\Users\Admin\.m2\repository\org\springframework\spring-expression\6.1.14\spring-expression-6.1.14.jar = 1778663478606
+C:\Users\Admin\.m2\repository\io\micrometer\micrometer-observation\1.13.6\micrometer-observation-1.13.6.jar = 1778663478952
+C:\Users\Admin\.m2\repository\io\micrometer\micrometer-commons\1.13.6\micrometer-commons-1.13.6.jar = 1778663481897
+C:\Users\Admin\.m2\repository\org\springframework\security\spring-security-oauth2-jose\6.3.4\spring-security-oauth2-jose-6.3.4.jar = 1778663482197
+C:\Users\Admin\.m2\repository\org\springframework\security\spring-security-oauth2-core\6.3.4\spring-security-oauth2-core-6.3.4.jar = 1778663481596
+C:\Users\Admin\.m2\repository\org\springframework\spring-web\6.1.14\spring-web-6.1.14.jar = 1778663480280
+C:\Users\Admin\.m2\repository\com\nimbusds\nimbus-jose-jwt\9.37.3\nimbus-jose-jwt-9.37.3.jar = 1778663479974
+C:\Users\Admin\.m2\repository\com\github\stephenc\jcip\jcip-annotations\1.0-1\jcip-annotations-1.0-1.jar = 1778663480612
+C:\Users\Admin\.m2\repository\org\springframework\security\spring-security-oauth2-resource-server\6.3.4\spring-security-oauth2-resource-server-6.3.4.jar = 1778663480951
+C:\Users\Admin\.m2\repository\org\springframework\security\spring-security-web\6.3.4\spring-security-web-6.3.4.jar = 1778663482020
+C:\Users\Admin\.m2\repository\org\projectlombok\lombok\1.18.34\lombok-1.18.34.jar = 1778663481050
+C:\christy\workspace\MyProjects\common-security\common-security-core\src\main\java = 1778580572732
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\generated-sources\annotations = 1778663911160
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\allclasses-index.html = 1778663919250
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\allpackages-index.html = 1778663919256
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\constant-values.html = 1778663919079
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\copy.svg = 1778663919411
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\element-list = 1778663918945
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\help-doc.html = 1778663919338
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\index-all.html = 1778663919313
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\index.html = 1778663919219
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\link.svg = 1778663919415
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\member-search-index.js = 1778663919266
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\module-search-index.js = 1778663919260
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\overview-summary.html = 1778663919328
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\overview-tree.html = 1778663919209
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\package-search-index.js = 1778663919262
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\script.js = 1778663919408
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\search-page.js = 1778663919429
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\search.html = 1778663919323
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\search.js = 1778663919421
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\stylesheet.css = 1778663919368
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\tag-search-index.js = 1778663919269
+C:\christy\workspace\MyProjects\common-security\common-security-core\target\apidocs\type-search-index.js = 1778663919264
